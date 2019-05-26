@@ -62,3 +62,25 @@ footer {
     background: #ffffff;
     border-bottom: 2px solid #cccccc;
   }
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+    background-color: #4aaaa5;
+    display: block;
+    width: 100%;
+    text-align: center;
+    line-height: 2.5;;
+}
+
+.imagecontainer {
+    position: relative;
+    width: 300px;
+    height: 250px;
+    display: inline-block;    
+}
+
+  
